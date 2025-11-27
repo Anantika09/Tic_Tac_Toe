@@ -1,1 +1,1 @@
-# Tic_Tac_Toe
+Tic Tac Toe Web Game - A responsive and interactive browser-based game built with HTML, CSS, and JavaScript that allows two players to play classic Tic Tac Toe with score tracking, win detection, and smooth animations.
